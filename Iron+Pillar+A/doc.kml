@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Iron Pillar A.K.A. Ashoka Pillar.kmz</name>
+    <StyleMap id="msn_ylw-pushpin">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#sn_ylw-pushpin</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#sh_ylw-pushpin</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="sn_ylw-pushpin">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="sh_ylw-pushpin">
+      <IconStyle>
+        <scale>1.3</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="20" xunits="pixels" y="2" yunits="pixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Iron Pillar A.K.A. Ashoka Pillar</name>
+      <description>The iron pillar of Delhi, India is a 7 meter (22 feet) high pillar in the Qutb complex which is notable for the composition of the metals used in its construction.
+The pillar, which weighs more than six tons, is said to have been fashioned at the time of Chandragupta Vikramaditya (375–413), though other authorities give dates as early as 912 BCE. The pillar initially stood in the centre of a Jain temple complex housing twenty-seven temples that were destroyed by Qutb-ud-din Aybak, and their material was used in building the Qutub Minar and Quwwat-ul-Islam mosque. The pillar and ruins of the temple stand all around the Qutb complex today. The pillar is 98% pure wrought iron, and is a testament to the high level of skill achieved by ancient Indian blacksmiths. It has attracted the attention of both archaeologists and metallurgists, as it has withstood corrosion for over 1,600 years in the open air.
+
+The name of the city of Delhi is thought to be based on a legend associated with the pillar (see History of Delhi).
+
+[ Discription Source from : WIKIPEDIA.ORG ]
+
+Designed By: Ashish Panwar
+www.hybridplanet.co.cc</description>
+      <LookAt>
+        <longitude>77.1852955520611</longitude>
+        <latitude>28.5247224792699</latitude>
+        <altitude>0</altitude>
+        <heading>0</heading>
+        <tilt>0</tilt>
+        <range>837.511324572438</range>
+      </LookAt>
+      <styleUrl>#msn_ylw-pushpin</styleUrl>
+      <Model id="model_1">
+        <altitudeMode>relativeToGround</altitudeMode>
+        <Location>
+          <longitude>77.184941026281</longitude>
+          <latitude>28.5247818227171</latitude>
+          <altitude>3</altitude>
+        </Location>
+        <Orientation>
+          <heading>-4.70238716806785</heading>
+          <tilt>0</tilt>
+          <roll>0</roll>
+        </Orientation>
+        <Scale>
+          <x>0.0364232831915149</x>
+          <y>0.0364232801256258</y>
+          <z>0.0364232816585703</z>
+        </Scale>
+        <Link>
+          <href>files/Iron Pillar.dae</href>
+        </Link>
+        <ResourceMap>
+          <Alias>
+            <targetHref>texture0.jpg</targetHref>
+            <sourceHref>Iron Pillar/texture0.jpg</sourceHref>
+          </Alias>
+          <Alias>
+            <targetHref>texture1.jpg</targetHref>
+            <sourceHref>Iron Pillar/texture1.jpg</sourceHref>
+          </Alias>
+          <Alias>
+            <targetHref>texture2.jpg</targetHref>
+            <sourceHref>Iron Pillar/texture2.jpg</sourceHref>
+          </Alias>
+          <Alias>
+            <targetHref>texture3.jpg</targetHref>
+            <sourceHref>Iron Pillar/texture3.jpg</sourceHref>
+          </Alias>
+          <Alias>
+            <targetHref>texture4.jpg</targetHref>
+            <sourceHref>Iron Pillar/texture4.jpg</sourceHref>
+          </Alias>
+        </ResourceMap>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>
